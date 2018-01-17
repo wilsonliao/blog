@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 data analytics,<br/> 
 financial markets,<br/> 
-programmoing,<br/>
+programming,<br/>
 research.<br/>
 flat design,<br/>
 minimalism,<br/>

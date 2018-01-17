@@ -1,7 +1,7 @@
 ---
 layout: post
-title: EA Dashboard
-description: a project that redirects to another website
+title: EA
+description: dashboard
 img: /img/EA.png
 redirect: https://plot.ly/dashboard/wilsonliao:89/view
 ---

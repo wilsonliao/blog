@@ -1,17 +1,15 @@
 ---
 layout: page
-title: about
+title:
 permalink: /about/
 ---
 
 <img class="col one right" src="/img/me.png">
 
 <br/>
-Career aspirations: data analytics, financial markets, programmoing and research.
-Fan of: flat design and minimalism.
-Loves: everyting video games!
-
-"Never stop learning, because life never stops teaching."
+Career aspirations: data analytics, financial markets, programmoing and research.<br/>
+Fan of: flat design and minimalism.<br/>
+Loves: everyting video games!<br/>
 <br/>
 <hr/>
 <br/>
@@ -21,6 +19,6 @@ Loves: everyting video games!
 </span>
 
 <div class="col three caption">
-	Do contact me for any enquriries.
+	"Never stop learning, because life never stops teaching."
 </div>
 

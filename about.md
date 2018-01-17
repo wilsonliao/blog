@@ -20,7 +20,7 @@ video games!<br/>
 <span class="contacticon center">
 	<a href="mailto:wilsonliaows@gmail.com"><i class="fa fa-paper-plane"></i></a>
 	<a href="https://www.linkedin.com/in/wilsonliaows/" target="_blank"><i class="fa fa-linkedin"></i></a>
-	<a href="https://www.dropbox.com/s/5rmy3njco3erj47/Wilson%20Liao%20Resume.docx?dl=0" target="_blank"><i class="fa fa-address-book"></i></a>
+	<a href="https://www.dropbox.com/s/5rmy3njco3erj47/Wilson%20Liao%20Resume.docx?dl=0" target="_blank"><i class="fa fa-file-word-o"></i></a>
 </span>
 
 <div class="col three caption">

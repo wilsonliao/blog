@@ -7,9 +7,13 @@ permalink: /about/
 <img class="col one right" src="/img/me.png">
 
 <br/>
-Career aspirations: data analytics, financial markets, programmoing and research.<br/>
-Fan of: flat design and minimalism.<br/>
-Loves: everyting video games!<br/>
+data analytics,<br/> 
+financial markets,<br/> 
+programmoing,<br/>
+research.<br/>
+flat design,<br/>
+minimalism,<br/>
+Video games!<br/>
 <br/>
 <hr/>
 <br/>

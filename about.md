@@ -13,7 +13,7 @@ programmoing,<br/>
 research.<br/>
 flat design,<br/>
 minimalism,<br/>
-Video games!<br/>
+video games!<br/>
 <br/>
 <hr/>
 <br/>

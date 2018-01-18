@@ -18,7 +18,6 @@ I’m a graduate in economics and finance — with knowledge of programming and 
 	<li><a href="https://plot.ly/" target="blank">Plotly</a></li>
 	<li>MS Office</li>
 </ul>
-<br/>
 #### Soft Skills
 <ul>
 	<li>Bilingual in English and Mandarin</li>
@@ -28,7 +27,6 @@ I’m a graduate in economics and finance — with knowledge of programming and 
 <ul>
 	<li>BSc Economics & Finance | University of London | 2017</li>
 </ul>
-<br/>
 #### Professional Development
 <ul>
 	<li><a href="https://www.udemy.com/certificate/UC-DRTBVHQQ/" target="blank">Presentation and Public Speaking/Speech</a> | Udemy | 2017</li>

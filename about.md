@@ -4,7 +4,7 @@ title: me
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/me.png">
+<img class="col one right" src="/img/CV_Contract_Agreement_Resume_Paper_Document-512.png">
 
 <br/>
 #### Profile

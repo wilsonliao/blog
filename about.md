@@ -25,12 +25,10 @@ I’m a graduate in economics and finance — with knowledge of programming and 
 	<li>Bilingual in English and Mandarin</li>
 	<li>Presentation and Public speaking</li>
 </ul><br/> 
-<br/>
 #### Education
 <ul>
 	<li>BSc Economics & Finance | University of London | 2017</li>
 </ul><br/> 
-<br/>
 #### Professional Development
 <ul>
 	<li><a href="https://www.plotly.com" target="blank">Presentation and Public Speaking/Speech</a></li> | Udemy | 2017</li>

@@ -8,7 +8,7 @@ url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
 github_username: wilsonliao
 google_analytics: UA-112691514-1
-disqus_shortname: wilsonliao
+disqus_shortname: wilson-liao
 
 # Build settings
 markdown: kramdown

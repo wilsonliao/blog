@@ -8,7 +8,8 @@ permalink: /about/
 
 <br/>
 #### Profile
-I’m a graduate in economics and finance — with knowledge of programming and data visualization tools. My interests lie in the financial markets, data analytics, research and technology. I hope to show the content of my character through my projects as I’m seek a career in the analytics world.
+I’m a graduate in economics and finance — with knowledge of programming and data visualization tools. My interests lie in the financial markets, data analytics, research and technology. I hope to show the content of my character through my projects as I
+seek a career in the analytics world.
 <br/>
 #### Technical Skills
 <ul>

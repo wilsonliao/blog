@@ -7,14 +7,34 @@ permalink: /about/
 <img class="col one right" src="/img/me.png">
 
 <br/>
-data analytics,<br/> 
-financial markets,<br/> 
-programming,<br/>
-research.<br/>
-flat design,<br/>
-minimalism,<br/>
-video games!<br/>
+#### Profile
+I’m a graduate in economics and finance — with knowledge of programming and data visualization tools. My interests lie in the financial markets, data analytics, research and technology. I hope to show the content of my character through my projects as I’m seek a career in the analytics world.
 <br/>
+<br/>
+#### Technical Skills
+<ul>
+	<li>Python</li>
+	<li>PostgreSQL, pgAdmin4</li>
+	<li>Market data analysis</li>
+	<li><a href="https://www.plotly.com" target="blank">Plotly</a></li>
+	<li>MS Office</li>
+</ul><br/> 
+<br/>
+#### Soft Skills
+<ul>
+	<li>Bilingual in English and Mandarin</li>
+	<li>Presentation and Public speaking</li>
+</ul><br/> 
+<br/>
+#### Education
+<ul>
+	<li>BSc Economics & Finance | University of London | 2017</li>
+</ul><br/> 
+<br/>
+#### Professional Development
+<ul>
+	<li><a href="https://www.plotly.com" target="blank">Presentation and Public Speaking/Speech</a></li> | Udemy | 2017</li>
+</ul><br/> 
 <hr/>
 <br/>
 <span class="contacticon center">

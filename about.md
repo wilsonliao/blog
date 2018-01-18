@@ -4,12 +4,11 @@ title: resume
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/CV_Contract_Agreement_Resume_Paper_Document-512.png">
+<img class="col one right" src="/img/resume-icon-png-19025.png">
 
 <br/>
 #### Profile
 I’m a graduate in economics and finance — with knowledge of programming and data visualization tools. My interests lie in the financial markets, data analytics, research and technology. I hope to show the content of my character through my projects as I’m seek a career in the analytics world.
-<br/>
 <br/>
 #### Technical Skills
 <ul>
@@ -18,8 +17,7 @@ I’m a graduate in economics and finance — with knowledge of programming and 
 	<li>Market data analysis</li>
 	<li><a href="https://www.plotly.com" target="blank">Plotly</a></li>
 	<li>MS Office</li>
-</ul><br/> 
-<br/>
+</ul><br/>
 #### Soft Skills
 <ul>
 	<li>Bilingual in English and Mandarin</li>

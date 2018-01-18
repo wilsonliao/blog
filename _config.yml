@@ -7,7 +7,11 @@ baseurl: # the subpath of your site, e.g. /blog/
 url: https://wilsonliao.github.io/  # the base hostname & protocol for your site
 github_username: wilsonliao
 google_analytics: UA-112691514-1
-disqus_shortname: wilson-liao
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: my_disqus_shortname
 
 # Build settings
 markdown: kramdown

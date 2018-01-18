@@ -17,20 +17,23 @@ I’m a graduate in economics and finance — with knowledge of programming and 
 	<li>Market data analysis</li>
 	<li><a href="https://plot.ly/" target="blank">Plotly</a></li>
 	<li>MS Office</li>
-</ul><br/>
+</ul>
+<br/>
 #### Soft Skills
 <ul>
 	<li>Bilingual in English and Mandarin</li>
 	<li>Presentation and Public speaking</li>
-</ul><br/> 
+</ul> 
 #### Education
 <ul>
 	<li>BSc Economics & Finance | University of London | 2017</li>
-</ul><br/> 
+</ul>
+<br/>
 #### Professional Development
 <ul>
 	<li><a href="https://www.udemy.com/certificate/UC-DRTBVHQQ/" target="blank">Presentation and Public Speaking/Speech</a> | Udemy | 2017</li>
-</ul><br/> 
+</ul>
+<br/> 
 <hr/>
 <br/>
 <span class="contacticon center">

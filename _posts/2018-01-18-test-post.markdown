@@ -1,9 +1,0 @@
----
-layout: post
-title: 2nd post
-date: 2018-01-18
-comments: true
-description: 2nd post
----
-
-Post to test comment section.

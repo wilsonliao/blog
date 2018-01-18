@@ -15,7 +15,7 @@ I’m a graduate in economics and finance — with knowledge of programming and 
 	<li>Python</li>
 	<li>PostgreSQL, pgAdmin4</li>
 	<li>Market data analysis</li>
-	<li><a href="https://www.plotly.com" target="blank">Plotly</a></li>
+	<li><a href="https://plot.ly/" target="blank">Plotly</a></li>
 	<li>MS Office</li>
 </ul><br/>
 #### Soft Skills
@@ -29,7 +29,7 @@ I’m a graduate in economics and finance — with knowledge of programming and 
 </ul><br/> 
 #### Professional Development
 <ul>
-	<li><a href="https://www.plotly.com" target="blank">Presentation and Public Speaking/Speech</a></li> | Udemy | 2017</li>
+	<li><a href="https://www.udemy.com/certificate/UC-DRTBVHQQ/" target="blank">Presentation and Public Speaking/Speech</a> | Udemy | 2017</li>
 </ul><br/> 
 <hr/>
 <br/>
